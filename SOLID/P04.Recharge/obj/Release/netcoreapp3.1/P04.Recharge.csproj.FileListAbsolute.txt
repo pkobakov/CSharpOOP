@@ -1,0 +1,12 @@
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P04.Recharge\bin\Release\netcoreapp3.1\P04.Recharge.exe
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P04.Recharge\bin\Release\netcoreapp3.1\P04.Recharge.deps.json
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P04.Recharge\bin\Release\netcoreapp3.1\P04.Recharge.runtimeconfig.json
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P04.Recharge\bin\Release\netcoreapp3.1\P04.Recharge.runtimeconfig.dev.json
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P04.Recharge\bin\Release\netcoreapp3.1\P04.Recharge.dll
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P04.Recharge\bin\Release\netcoreapp3.1\P04.Recharge.pdb
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P04.Recharge\obj\Release\netcoreapp3.1\P04.Recharge.AssemblyInfoInputs.cache
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P04.Recharge\obj\Release\netcoreapp3.1\P04.Recharge.AssemblyInfo.cs
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P04.Recharge\obj\Release\netcoreapp3.1\P04.Recharge.csproj.CoreCompileInputs.cache
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P04.Recharge\obj\Release\netcoreapp3.1\P04.Recharge.dll
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P04.Recharge\obj\Release\netcoreapp3.1\P04.Recharge.pdb
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P04.Recharge\obj\Release\netcoreapp3.1\P04.Recharge.genruntimeconfig.cache

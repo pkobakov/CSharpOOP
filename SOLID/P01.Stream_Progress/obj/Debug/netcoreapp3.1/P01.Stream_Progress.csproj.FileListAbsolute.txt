@@ -1,0 +1,12 @@
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.exe
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.deps.json
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.runtimeconfig.json
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.runtimeconfig.dev.json
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.dll
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.pdb
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.AssemblyInfoInputs.cache
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.AssemblyInfo.cs
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.csproj.CoreCompileInputs.cache
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.dll
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.pdb
+C:\Users\25042020\Desktop\New folder\07. CSharp-OOP-SOLID-Lab-Skeleton\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.genruntimeconfig.cache
