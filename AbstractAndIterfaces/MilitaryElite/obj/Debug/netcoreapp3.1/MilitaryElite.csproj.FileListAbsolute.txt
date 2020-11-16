@@ -1,0 +1,12 @@
+C:\Users\25042020\source\repos\AbstractAndIterfaces\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+C:\Users\25042020\source\repos\AbstractAndIterfaces\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+C:\Users\25042020\source\repos\AbstractAndIterfaces\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+C:\Users\25042020\source\repos\AbstractAndIterfaces\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\AbstractAndIterfaces\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\25042020\source\repos\AbstractAndIterfaces\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\25042020\source\repos\AbstractAndIterfaces\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\AbstractAndIterfaces\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\25042020\source\repos\AbstractAndIterfaces\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\AbstractAndIterfaces\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\25042020\source\repos\AbstractAndIterfaces\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\25042020\source\repos\AbstractAndIterfaces\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache
