@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Polymorphism\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Polymorphism\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Polymorphism\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Polymorphism\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Polymorphism\Wild Farm\obj\Debug\netcoreapp3.1\Wild Farm.genruntimeconfig.cache
+C:\Users\25042020\source\repos\Polymorphism\Wild Farm\bin\Debug\netcoreapp3.1\WildFarm.exe
+C:\Users\25042020\source\repos\Polymorphism\Wild Farm\bin\Debug\netcoreapp3.1\WildFarm.deps.json
+C:\Users\25042020\source\repos\Polymorphism\Wild Farm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.json
+C:\Users\25042020\source\repos\Polymorphism\Wild Farm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Polymorphism\Wild Farm\bin\Debug\netcoreapp3.1\WildFarm.dll
+C:\Users\25042020\source\repos\Polymorphism\Wild Farm\bin\Debug\netcoreapp3.1\WildFarm.pdb
+C:\Users\25042020\source\repos\Polymorphism\Wild Farm\obj\Debug\netcoreapp3.1\WildFarm.dll
+C:\Users\25042020\source\repos\Polymorphism\Wild Farm\obj\Debug\netcoreapp3.1\WildFarm.pdb
