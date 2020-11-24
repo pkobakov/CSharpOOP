@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+C:\Users\25042020\source\repos\Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+C:\Users\25042020\source\repos\Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+C:\Users\25042020\source\repos\Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Users\25042020\source\repos\Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Users\25042020\source\repos\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Users\25042020\source\repos\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Users\25042020\source\repos\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache
