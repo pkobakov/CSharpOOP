@@ -11,3 +11,16 @@ C:\Users\25042020\Desktop\New folder\Reflection-and-Attributes-Skeleton (1)\Refl
 C:\Users\25042020\Desktop\New folder\Reflection-and-Attributes-Skeleton (1)\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.dll
 C:\Users\25042020\Desktop\New folder\Reflection-and-Attributes-Skeleton (1)\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.pdb
 C:\Users\25042020\Desktop\New folder\Reflection-and-Attributes-Skeleton (1)\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.genruntimeconfig.cache
+C:\Users\25042020\Desktop\C#\CSharpOOP\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.exe
+C:\Users\25042020\Desktop\C#\CSharpOOP\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.deps.json
+C:\Users\25042020\Desktop\C#\CSharpOOP\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.json
+C:\Users\25042020\Desktop\C#\CSharpOOP\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.dev.json
+C:\Users\25042020\Desktop\C#\CSharpOOP\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.dll
+C:\Users\25042020\Desktop\C#\CSharpOOP\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.pdb
+C:\Users\25042020\Desktop\C#\CSharpOOP\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csprojAssemblyReference.cache
+C:\Users\25042020\Desktop\C#\CSharpOOP\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\25042020\Desktop\C#\CSharpOOP\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfo.cs
+C:\Users\25042020\Desktop\C#\CSharpOOP\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\25042020\Desktop\C#\CSharpOOP\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.dll
+C:\Users\25042020\Desktop\C#\CSharpOOP\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.pdb
+C:\Users\25042020\Desktop\C#\CSharpOOP\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.genruntimeconfig.cache
