@@ -1,0 +1,9 @@
+C:\Users\25042020\Desktop\New folder\EasterRaces\03. Unit Tests_Skeleton\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\25042020\Desktop\New folder\EasterRaces\03. Unit Tests_Skeleton\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\25042020\Desktop\New folder\EasterRaces\03. Unit Tests_Skeleton\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\25042020\Desktop\New folder\EasterRaces\03. Unit Tests_Skeleton\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\25042020\Desktop\New folder\EasterRaces\03. Unit Tests_Skeleton\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\25042020\Desktop\New folder\EasterRaces\03. Unit Tests_Skeleton\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\25042020\Desktop\New folder\EasterRaces\03. Unit Tests_Skeleton\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\25042020\Desktop\New folder\EasterRaces\03. Unit Tests_Skeleton\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\25042020\Desktop\New folder\EasterRaces\03. Unit Tests_Skeleton\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb

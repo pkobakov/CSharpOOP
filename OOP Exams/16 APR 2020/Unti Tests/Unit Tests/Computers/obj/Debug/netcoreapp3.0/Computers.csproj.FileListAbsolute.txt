@@ -1,0 +1,13 @@
+C:\Users\25042020\Desktop\EXAMS\OOP Exams\16 APR 2020\Unti Tests\Unit Tests\Computers\bin\Debug\netcoreapp3.0\Computers.exe
+C:\Users\25042020\Desktop\EXAMS\OOP Exams\16 APR 2020\Unti Tests\Unit Tests\Computers\bin\Debug\netcoreapp3.0\Computers.deps.json
+C:\Users\25042020\Desktop\EXAMS\OOP Exams\16 APR 2020\Unti Tests\Unit Tests\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.json
+C:\Users\25042020\Desktop\EXAMS\OOP Exams\16 APR 2020\Unti Tests\Unit Tests\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.dev.json
+C:\Users\25042020\Desktop\EXAMS\OOP Exams\16 APR 2020\Unti Tests\Unit Tests\Computers\bin\Debug\netcoreapp3.0\Computers.dll
+C:\Users\25042020\Desktop\EXAMS\OOP Exams\16 APR 2020\Unti Tests\Unit Tests\Computers\bin\Debug\netcoreapp3.0\Computers.pdb
+C:\Users\25042020\Desktop\EXAMS\OOP Exams\16 APR 2020\Unti Tests\Unit Tests\Computers\obj\Debug\netcoreapp3.0\Computers.csprojAssemblyReference.cache
+C:\Users\25042020\Desktop\EXAMS\OOP Exams\16 APR 2020\Unti Tests\Unit Tests\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfoInputs.cache
+C:\Users\25042020\Desktop\EXAMS\OOP Exams\16 APR 2020\Unti Tests\Unit Tests\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfo.cs
+C:\Users\25042020\Desktop\EXAMS\OOP Exams\16 APR 2020\Unti Tests\Unit Tests\Computers\obj\Debug\netcoreapp3.0\Computers.csproj.CoreCompileInputs.cache
+C:\Users\25042020\Desktop\EXAMS\OOP Exams\16 APR 2020\Unti Tests\Unit Tests\Computers\obj\Debug\netcoreapp3.0\Computers.dll
+C:\Users\25042020\Desktop\EXAMS\OOP Exams\16 APR 2020\Unti Tests\Unit Tests\Computers\obj\Debug\netcoreapp3.0\Computers.pdb
+C:\Users\25042020\Desktop\EXAMS\OOP Exams\16 APR 2020\Unti Tests\Unit Tests\Computers\obj\Debug\netcoreapp3.0\Computers.genruntimeconfig.cache
